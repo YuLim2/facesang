@@ -414,9 +414,9 @@ input:checked + label > .knob > i:before {
 }
 .ad-banner3 {
   width: 320px;
-  margin: 0 auto;
+  margin: auto;
 }
 .ad-banner4 {
   width: 320px;
-  margin: 0 auto;
+  margin: auto;
 }
