@@ -400,7 +400,7 @@ input:checked + label > .knob > i:before {
   transform: rotate(134deg);
 }
 
-.ad-banner {
+/* .ad-banner {
     width: 320px;
     margin: 0 auto;
 }
@@ -415,8 +415,5 @@ input:checked + label > .knob > i:before {
 .ad-banner3 {
   width: 320px;
   margin: auto;
-}
-.ad-banner4 {
-  width: 320px;
-  margin: auto;
+} */
 }
